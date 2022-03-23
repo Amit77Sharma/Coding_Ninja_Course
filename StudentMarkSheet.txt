@@ -1,0 +1,9 @@
+Name	RollNo	Physic	Chemistry	Math
+Amit	CS2001	80	70		50
+Subham	CS2002	60	80		90
+Sumit	CS2004	80	68		90
+Sourabh	CS1001	83	81		82
+Ankit	CS2009	47	39		87
+Name	RollNo	Physic	Chemistry	Math
+karim	CS202	90	78		23
+java	CS101	67	34		23
