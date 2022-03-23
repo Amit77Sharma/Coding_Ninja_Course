@@ -1,0 +1,36 @@
+//Generics with multiple data type 
+
+package Generics;
+
+public class Differentpair<T,S> {
+	
+	
+	private T first;
+	private S second;
+	
+	public Differentpair(T first,S second)
+	{
+		this.first=first;
+		this.second=second;
+	}
+	
+	
+	public T getfirst()
+	{
+		return first;
+	}
+	
+	public void setfirst(T first) {
+		this.first=first;
+	}
+	
+	public S getSecond() {
+		return second;
+	}
+	
+	public void setSecond(S second)
+	{
+		this.second=second;
+	}
+
+}
